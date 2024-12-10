@@ -1,0 +1,99 @@
+body {
+    font-family: Roboto, sans-serif;    
+}
+
+.navbar {
+    background-color: #015926;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #015926;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: Zen Tokyo Zoo, cursive;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.minha-classe {
+    height: 300px;
+    object-fit: cover;
+}
+
+.carousel-item {
+    transition: transform 1s ease-in-out;;
+}
+
+.section-title {
+    font-family: Zen Tokyo Zoo, cursive;
+}
+
+.section-title span {
+    color: #015926;
+}
+
+#sobre-o-site,
+#projetos {
+    background-color: #dbf4e5; 
+}
+
+#nossos-trabalhos,
+#fale-conosco {
+    background-color: #f0f9f3;
+}
+
+.text-colored {
+    color: #015926;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button  {
+    background-color: #015926;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color:#015926
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.modal-content {
+    background-color: rgb(188, 255, 236);
+    border: 2px solid #ffffff;
+}
+
+.modal-header,
+.modal-footer {
+    background-color: rgb(149, 204, 154);
+}
+
+footer {
+    background-color: #015926;
+    color: #dbf4e5;
+}
+
+@media (max-width> 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
+
