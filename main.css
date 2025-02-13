@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: #015926;
+    background: linear-gradient(45deg, #1f6a23, #cfc723);
 }
 
 #cabecalho .nav .nav-link.active {
@@ -45,12 +45,12 @@ body {
 
 #sobre-o-site,
 #projetos {
-    background-color: #dbf4e5; 
+    background: linear-gradient(45deg, #f7dac3, #b5fac8); 
 }
 
 #nossos-trabalhos,
 #fale-conosco {
-    background-color: #f0f9f3;
+    background: linear-gradient(45deg, #b5fac8,#f7dac3);
 }
 
 .text-colored {
