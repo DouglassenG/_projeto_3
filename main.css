@@ -58,10 +58,20 @@ body {
 }
 
 .nav-cardapio .nav-link.active,
-#fale-conosco button  {
+#fale-conosco button {
     background-color: #015926;
     color: #fff;
 }
+
+button {
+    background-color: #015926;
+    color: #fff;
+
+}
+button:hover {
+    background-color: #88bd9e;
+}
+
 
 .nav-cardapio .nav-link:hover {
     color:#015926
