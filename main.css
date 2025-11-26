@@ -4,6 +4,7 @@ body {
 
 .navbar {
     background: linear-gradient(45deg, #1f6a23, #cfc723);
+    height: 6px auto;
 }
 
 #cabecalho .nav .nav-link.active {
