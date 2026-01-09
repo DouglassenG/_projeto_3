@@ -15,7 +15,7 @@ A motivação principal foi criar uma Landing Page que fosse não apenas funcion
 
 ## 🖼️ Demonstração Visual
 
-*(Espaço reservado para screenshots. Se possível, adicione uma imagem ou GIF do site rodando aqui)*
+https://projeto-3-orcin-delta.vercel.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
